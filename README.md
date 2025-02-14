@@ -1,4 +1,4 @@
-# embeddings_model
+# embpy
 
 [![Tests][badge-tests]][tests]
 [![Documentation][badge-docs]][documentation]
